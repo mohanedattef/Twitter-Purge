@@ -10,5 +10,5 @@ You'll need nothing to excute the downloadable script above but if you wanna tin
 **purge.py** Simply executes the purge with no interface provided, granted you've provided it with all of your api keys and access tokens.  
 **purgeauth.py** Is the file that was packaged that you might install to use it, it implements the  3-Legged OAuth to allow all users to use the script.   
 
-# Up next
+# up next
 will be turning this into a webapplication later on
